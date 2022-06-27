@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "react": "16.8",
+    "react-dom": "16.8",
+    "react-is": "16.8",
+    "styled-components": "^5.0.0",
+    "yarn": "^1.22.19"
+  },
+  "name": "gdsoli",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "license": "Y",
+  "repository": "https://github.com/Vanderleidecoquintino/test.git",
+  "author": "Decoquintino",
+  "private": true
+}
